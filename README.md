@@ -3,9 +3,11 @@ A responsive Tech documentation page.
 
 ## About
 
-Designed & developed a clean, minimalistic Tech documentation page using HTML, CSS. Keywords: web design, web development, UI/UX, user-friendly, responsive.
+Designed & developed a clean, minimalistic Tech documentation page using HTML, CSS. 
 Key points: the minimal design, the sticky left header, the scrollable menu items, and the separate scroll on the right section, where information is. This clean makes the website extremely user friendly & intuitive to navigate.
 
+## Keywords: 
+Web design, web development, UI/UX, user-friendly, responsive.
 
 ## See it Live!
 ![Preview png](https://github.com/Kaiakaras/tech-page/blob/main/tech-page/images/preview.png)
